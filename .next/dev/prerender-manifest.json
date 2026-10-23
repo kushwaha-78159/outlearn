@@ -1,0 +1,1 @@
+{"version":4,"routes":{"/mock-tests/ai-fundamentals":{},"/mock-tests/web-basics":{}},"dynamicRoutes":{"/mock-tests/[slug]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/mock-tests/[slug]","routeRegex":"^\\/mock\\-tests\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[]}
